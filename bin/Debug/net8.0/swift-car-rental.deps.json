@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "swift-car-rental/1.0.0": {
+        "runtime": {
+          "swift-car-rental.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "swift-car-rental/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\swift-car-rental.props" />
+</Project>
